@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prog 2 Exam</string>
+    <string name="listado_title">Measurement List</string>
+    <string name="add_button">Add Measurement</string>
+</resources>
